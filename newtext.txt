@@ -3,4 +3,4 @@ this is now better and i fixed the text in the new branch
 
 now i change it again
 
-commit from githum
+maybe now this will work? fixing bug
